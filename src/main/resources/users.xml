@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+    <user>
+        <name>Tony Stark</name>
+        <grade>5</grade>
+        <nationality>German</nationality>
+        <race>AFRICAN</race>
+    </user>
+    <user>
+        <name>jazy</name>
+        <grade>5</grade>
+        <nationality>pakistani</nationality>
+        <race>ASIAN</race>
+    </user>
+</users>
